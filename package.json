@@ -1,0 +1,22 @@
+{
+  "name": "argv",
+  "version": "1.0.0",
+  "description": "Simple argv parser for my needs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lltwox/argv.git"
+  },
+  "keywords": [
+    "argv"
+  ],
+  "author": "Alexander Golubev <lltwox@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lltwox/argv/issues"
+  },
+  "homepage": "https://github.com/lltwox/argv#readme"
+}
